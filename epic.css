@@ -1,0 +1,22 @@
+body{
+    background-color: darkgoldenrod;
+}
+img{
+    width: 20%;
+    position: fixed;
+}
+#output{
+    margin-left: 40%;
+    margin-top: 20%;
+}
+.eye{
+    width: 10%;
+}
+.leftArm{
+    width: 10%;
+    margin-left: -5.5%;
+}
+.rightArm{
+    width: 10%;
+    margin-left: 15.5%;
+}
